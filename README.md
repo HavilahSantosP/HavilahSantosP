@@ -7,7 +7,9 @@
 #
 - Sou Técnica em Informática
 - Cursando Análise e Desenvolvimento de Sistemas
-- Interesse em RPA, análise de requisitos e modelagem, com foco em automação e melhoria de processos
+- Foco em automação e melhoria de processos
+- Interesse em RPA, análise de requisitos e modelagem
+
   
 #
 
