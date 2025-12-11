@@ -8,7 +8,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HavilahSantosP/HavilahSantosP/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HavilahSantosP/HavilahSantosP/output/github-contribution-grid-snake.svg">
 </picture>
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Minhas Skills
 
@@ -38,10 +37,3 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
